@@ -1,16 +1,20 @@
-## Hi there 👋
+# Shashank Chauhan
 
-<!--
-**DevInIndia/DevInIndia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I do
+- Building AI + ML systems
+- Full-stack apps (Next.js + Express)
+- Interested in edge ML / TinyML
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack
+C++ | Python | Next.js | MongoDB | Prisma | ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- Continuum.ai → AI productivity system
+- NeuroSense → wearable ML pipeline
+- (add 1–2 more strong ones)
+
+## 📊 GitHub Stats
+(optional)
+
+## 📫 Contact
+LinkedIn | Email
